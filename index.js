@@ -42,7 +42,7 @@ const sendMessage = async () => {
 
     const messageContent = [
       "i'm so sorry",
-      'https://www.instagram.com/milkyytot',
+      'https://instagram.com/milkyytot',
     ];
     for (let i = 0; i < messageContent.length; i++) {
       // type message
