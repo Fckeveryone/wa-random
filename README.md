@@ -5,7 +5,7 @@ Send WhatsApp messages to a random person in Indonesia.
 2. Download and Install [Git](https://git-scm.com/downloads)
 3. Clone this repository using Git Bash
    ```
-   git clone https://github.com/dimasmiftah/suki.git suki
+   git clone https://github.com/milkytot/wa-random.git suki
    ```
 4. Change directory to suki
     ```
