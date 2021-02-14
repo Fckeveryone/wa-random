@@ -30,7 +30,7 @@ const sendMessage = async () => {
   const randomPhoneNumber = generatePhoneNumber();
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
-  await page.goto(`https://web.whatsapp.com/send?phone=${randomPhoneNumber}`, {
+  await page.goto(`https://wa.me/${randomPhoneNumber}`, {
     waitUntil: 'networkidle2',
   });
 
@@ -42,7 +42,7 @@ const sendMessage = async () => {
 
     const messageContent = [
       "i'm so sorry",
-      'https://www.tiktok.com/@dimasmiftah?lang=en',
+      'https://www.instagram.com/milkyytot',
     ];
     for (let i = 0; i < messageContent.length; i++) {
       // type message
