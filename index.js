@@ -1,8 +1,8 @@
-const HLRTelkomsel = require('./HLRTelkomsel');
+const nomer = require('./nomer');
 const puppeteer = require('puppeteer');
 
 const generatePhoneNumber = () => {
-  const randomRegion = randomProperty(HLRTelkomsel);
+  const randomRegion = randomProperty(nomer);
   const randomHLR = randomElement(randomRegion);
   return makeItTwenty(randomHLR);
 };
