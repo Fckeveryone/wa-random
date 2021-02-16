@@ -9,7 +9,7 @@ Send WhatsApp messages to a random person in Indonesia.
    ```
 4. Change directory to suki
     ```
-   cd suki
+   cd wa-random
    ```
 5. Install Yarn
     ```
