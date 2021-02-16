@@ -7,7 +7,7 @@ Send WhatsApp messages to a random person in Indonesia.
    ```
    git clone https://github.com/milkytot/wa-random.git
    ```
-4. Change directory to suki
+4. Change directory
     ```
    cd wa-random
    ```
