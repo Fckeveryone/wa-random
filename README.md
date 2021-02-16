@@ -1,4 +1,4 @@
-# suki
+# Wa-Random
 Send WhatsApp messages to a random person in Indonesia.
 ## Installation
 1. Download and Intall [Node](https://nodejs.org/en/download/)
