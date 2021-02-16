@@ -23,3 +23,5 @@ Send WhatsApp messages to a random person in Indonesia.
     ```
    yarn start
    ```
+
+Credit : [Suki](https://github.com/dimasmiftah/suki)
