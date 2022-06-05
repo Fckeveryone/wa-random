@@ -735,4 +735,4 @@ const nomer = {
   ],
 };
 
-module.exports = HLRTelkomsel;
+module.exports = nomer;
